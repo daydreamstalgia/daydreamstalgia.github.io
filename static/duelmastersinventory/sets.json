@@ -90,6 +90,12 @@
                         "set_code":  "DM-01",
                         "set_name":  "Basic Set",
                         "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-01.zip"
+                    },
+                    {
+                        "set_language":  "JP",
+                        "set_code":  "DM-03",
+                        "set_name":  "Master of Destruction",
+                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-03.zip"
                     }
                 ]
 }
