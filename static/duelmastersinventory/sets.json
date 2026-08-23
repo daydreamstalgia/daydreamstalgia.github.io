@@ -96,6 +96,30 @@
                         "set_code":  "DM-03",
                         "set_name":  "Master of Destruction",
                         "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-03.zip"
+                    },
+                    {
+                        "set_language":  "JP",
+                        "set_code":  "DM-02",
+                        "set_name":  "Master of Evolution",
+                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-02.zip"
+                    },
+                    {
+                        "set_language":  "JP",
+                        "set_code":  "DM-10",
+                        "set_name":  "Eternal Arms",
+                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-10.zip"
+                    },
+                    {
+                        "set_language":  "JP",
+                        "set_code":  "DM-05",
+                        "set_name":  "Return of the Survivor",
+                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-05.zip"
+                    },
+                    {
+                        "set_language":  "JP",
+                        "set_code":  "DM-04",
+                        "set_name":  "Challenge of Black Shadow",
+                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-04.zip"
                     }
                 ]
 }
