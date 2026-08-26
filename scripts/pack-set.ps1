@@ -66,8 +66,12 @@ foreach ($card in $data.cards) {
     $tmpJpg = Join-Path $stagingRoot "dl_$($card.set_number).jpg"
     # Wikia's CDN serves WebP by default regardless of the .jpg URL extension
     # (content negotiation via Fastly); ?format=original forces the real JPEG,
-    # which System.Drawing (no WebP codec) can actually decode.
-    $client.DownloadFile("$url`?format=original", $tmpJpg)
+    # which System.Drawing (no WebP codec) can actually decode. Strip any
+    # existing query string first (the allimages API's "url" field already
+    # carries a ?cb=... cache-buster) so this doesn't produce an invalid
+    # double "?" that makes the CDN choke.
+    $baseUrl = $url -replace '\?.*$', ''
+    $client.DownloadFile("$baseUrl`?format=original", $tmpJpg)
 
     $dstPng = Join-Path $assetsDir "$($packName)_$($card.set_number)_$($card.set_count).png"
     $bmp = [System.Drawing.Bitmap]::FromFile($tmpJpg)

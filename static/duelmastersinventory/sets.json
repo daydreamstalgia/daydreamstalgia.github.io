@@ -120,6 +120,24 @@
                         "set_code":  "DM-04",
                         "set_name":  "Challenge of Black Shadow",
                         "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-04.zip"
+                    },
+                    {
+                        "set_language":  "JP",
+                        "set_code":  "DM25-EX1",
+                        "set_name":  "Love Thanksgiving: Heroine BEST",
+                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM25-EX1.zip"
+                    },
+                    {
+                        "set_language":  "JP",
+                        "set_code":  "DM-06",
+                        "set_name":  "Invincible Soul",
+                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-06.zip"
+                    },
+                    {
+                        "set_language":  "JP",
+                        "set_code":  "DM24-RP4",
+                        "set_name":  "World of Ballom",
+                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM24-RP4.zip"
                     }
                 ]
 }
