@@ -138,6 +138,18 @@
                         "set_code":  "DM24-RP4",
                         "set_name":  "World of Ballom",
                         "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM24-RP4.zip"
+                    },
+                    {
+                        "set_language":  "JP",
+                        "set_code":  "DM-07",
+                        "set_name":  "Invincible Charge",
+                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-07.zip"
+                    },
+                    {
+                        "set_language":  "JP",
+                        "set_code":  "DM-08",
+                        "set_name":  "Invincible Legend",
+                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-08.zip"
                     }
                 ]
 }
