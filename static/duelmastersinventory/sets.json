@@ -162,6 +162,18 @@
             "set_code": "DM-13",
             "set_name": "Eternal Phoenix",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-13.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-14",
+            "set_name": "Generate Gear",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-14.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-15",
+            "set_name": "Secret of Hidden Gear",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-15.zip"
         }
     ]
 }
