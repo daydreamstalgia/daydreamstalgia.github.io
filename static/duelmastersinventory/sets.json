@@ -1,155 +1,161 @@
 {
-    "target":  "DMInventory",
-    "content":  [
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "DM-01",
-                        "set_name":  "Base Set",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-01.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "DM-02",
-                        "set_name":  "Evo-Crushinators of Doom",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-02.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "DM-03",
-                        "set_name":  "Rampage of the Super Warriors",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-03.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "DM-04",
-                        "set_name":  "Shadowclash of Blinding Night",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-04.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "DM-05",
-                        "set_name":  "Survivors of the Megapocalypse",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-05.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "DM-06",
-                        "set_name":  "Stomp-A-Trons of Invincible Wrath",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-06.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "DM-07",
-                        "set_name":  "Thundercharge of Ultra Destruction",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-07.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "DM-08",
-                        "set_name":  "Epic Dragons of Hyperchaos",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-08.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "DM-09",
-                        "set_name":  "Fatal Brood of Infinite Ruin",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-09.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "DM-10",
-                        "set_name":  "Shockwaves of the Shattered Rainbow",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-10.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "DM-11",
-                        "set_name":  "Blast-o-Splosion of Gigantic Rage",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-11.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "DM-12",
-                        "set_name":  "Thrash of the Hybrid Megacreatures",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-12.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "Promo",
-                        "set_name":  "Promo",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_Promo.zip"
-                    },
-                    {
-                        "set_language":  "EN",
-                        "set_code":  "CTD",
-                        "set_name":  "Collector\u0027s Tin Deck",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/EN_CTD.zip"
-                    },
-                    {
-                        "set_language":  "JP",
-                        "set_code":  "DM-01",
-                        "set_name":  "Basic Set",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-01.zip"
-                    },
-                    {
-                        "set_language":  "JP",
-                        "set_code":  "DM-03",
-                        "set_name":  "Master of Destruction",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-03.zip"
-                    },
-                    {
-                        "set_language":  "JP",
-                        "set_code":  "DM-02",
-                        "set_name":  "Master of Evolution",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-02.zip"
-                    },
-                    {
-                        "set_language":  "JP",
-                        "set_code":  "DM-10",
-                        "set_name":  "Eternal Arms",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-10.zip"
-                    },
-                    {
-                        "set_language":  "JP",
-                        "set_code":  "DM-05",
-                        "set_name":  "Return of the Survivor",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-05.zip"
-                    },
-                    {
-                        "set_language":  "JP",
-                        "set_code":  "DM-04",
-                        "set_name":  "Challenge of Black Shadow",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-04.zip"
-                    },
-                    {
-                        "set_language":  "JP",
-                        "set_code":  "DM25-EX1",
-                        "set_name":  "Love Thanksgiving: Heroine BEST",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM25-EX1.zip"
-                    },
-                    {
-                        "set_language":  "JP",
-                        "set_code":  "DM-06",
-                        "set_name":  "Invincible Soul",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-06.zip"
-                    },
-                    {
-                        "set_language":  "JP",
-                        "set_code":  "DM24-RP4",
-                        "set_name":  "World of Ballom",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM24-RP4.zip"
-                    },
-                    {
-                        "set_language":  "JP",
-                        "set_code":  "DM-07",
-                        "set_name":  "Invincible Charge",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-07.zip"
-                    },
-                    {
-                        "set_language":  "JP",
-                        "set_code":  "DM-08",
-                        "set_name":  "Invincible Legend",
-                        "url":  "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-08.zip"
-                    }
-                ]
+    "target": "DMInventory",
+    "content": [
+        {
+            "set_language": "EN",
+            "set_code": "DM-01",
+            "set_name": "Base Set",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-01.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "DM-02",
+            "set_name": "Evo-Crushinators of Doom",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-02.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "DM-03",
+            "set_name": "Rampage of the Super Warriors",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-03.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "DM-04",
+            "set_name": "Shadowclash of Blinding Night",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-04.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "DM-05",
+            "set_name": "Survivors of the Megapocalypse",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-05.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "DM-06",
+            "set_name": "Stomp-A-Trons of Invincible Wrath",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-06.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "DM-07",
+            "set_name": "Thundercharge of Ultra Destruction",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-07.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "DM-08",
+            "set_name": "Epic Dragons of Hyperchaos",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-08.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "DM-09",
+            "set_name": "Fatal Brood of Infinite Ruin",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-09.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "DM-10",
+            "set_name": "Shockwaves of the Shattered Rainbow",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-10.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "DM-11",
+            "set_name": "Blast-o-Splosion of Gigantic Rage",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-11.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "DM-12",
+            "set_name": "Thrash of the Hybrid Megacreatures",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_DM-12.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "Promo",
+            "set_name": "Promo",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_Promo.zip"
+        },
+        {
+            "set_language": "EN",
+            "set_code": "CTD",
+            "set_name": "Collector's Tin Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/EN_CTD.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-01",
+            "set_name": "Basic Set",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-01.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-03",
+            "set_name": "Master of Destruction",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-03.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-02",
+            "set_name": "Master of Evolution",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-02.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-10",
+            "set_name": "Eternal Arms",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-10.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-05",
+            "set_name": "Return of the Survivor",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-05.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-04",
+            "set_name": "Challenge of Black Shadow",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-04.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM25-EX1",
+            "set_name": "Love Thanksgiving: Heroine BEST",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM25-EX1.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-06",
+            "set_name": "Invincible Soul",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-06.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM24-RP4",
+            "set_name": "World of Ballom",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM24-RP4.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-07",
+            "set_name": "Invincible Charge",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-07.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-08",
+            "set_name": "Invincible Legend",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-08.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMR-01",
+            "set_name": "First Contact",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMR-01.zip"
+        }
+    ]
 }
