@@ -156,6 +156,12 @@
             "set_code": "DMR-01",
             "set_name": "First Contact",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMR-01.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-13",
+            "set_name": "Eternal Phoenix",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-13.zip"
         }
     ]
 }
