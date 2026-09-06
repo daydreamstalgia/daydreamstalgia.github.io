@@ -360,6 +360,12 @@
             "set_code": "DM-39",
             "set_name": "Psychic Splash",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-39.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-01",
+            "set_name": "Shobu's Blaze Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-01.zip"
         }
     ]
 }
