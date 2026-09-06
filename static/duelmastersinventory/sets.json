@@ -858,6 +858,12 @@
             "set_code": "DMD-15",
             "set_name": "Beginning Dragon Deck: Battle Passion Dragon",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-15.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-16",
+            "set_name": "Beginning Dragon Deck: Heavenly Justice Dragon",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-16.zip"
         }
     ]
 }
