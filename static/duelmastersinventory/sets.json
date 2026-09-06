@@ -870,6 +870,12 @@
             "set_code": "DMD-17",
             "set_name": "Beginning Dragon Deck: Crystal Memory Dragon",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-17.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-18",
+            "set_name": "Super Victory Deck: Blaze Up Dragon Sword Gaial",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-18.zip"
         }
     ]
 }
