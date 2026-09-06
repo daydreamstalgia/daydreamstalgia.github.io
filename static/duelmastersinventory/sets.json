@@ -372,6 +372,12 @@
             "set_code": "DMC-02",
             "set_name": "Kokujo's Darkness Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-02.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-03",
+            "set_name": "Shobu's Blaze Power-Up Pack",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-03.zip"
         }
     ]
 }
