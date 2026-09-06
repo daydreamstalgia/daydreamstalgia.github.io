@@ -354,6 +354,12 @@
             "set_code": "DM-38",
             "set_name": "Angelic Wars",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-38.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-39",
+            "set_name": "Psychic Splash",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-39.zip"
         }
     ]
 }
