@@ -882,6 +882,12 @@
             "set_code": "DMD-19",
             "set_name": "Super Victory Deck: Annihilation Dragon Sword Diabolos",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-19.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-20",
+            "set_name": "Super Victory Deck: Victorious Rising Dragon Sword Gaiohburn",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-20.zip"
         }
     ]
 }
