@@ -402,6 +402,12 @@
             "set_code": "DMC-07",
             "set_name": "Eternal Insects Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-07.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-08",
+            "set_name": "Endless Black Hole Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-08.zip"
         }
     ]
 }
