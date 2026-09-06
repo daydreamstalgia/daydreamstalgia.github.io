@@ -390,6 +390,12 @@
             "set_code": "DMC-05",
             "set_name": "Lightning Thunder Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-05.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-06",
+            "set_name": "Dragon Strikes Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-06.zip"
         }
     ]
 }
