@@ -450,6 +450,12 @@
             "set_code": "DMC-15",
             "set_name": "Eternal Dragons Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-15.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-16",
+            "set_name": "Guardian Blue Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-16.zip"
         }
     ]
 }
