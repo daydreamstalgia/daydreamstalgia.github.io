@@ -258,6 +258,12 @@
             "set_code": "DM-27",
             "set_name": "Perfect Heaven",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-27.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-27+1D",
+            "set_name": "Perfect Heaven Plus One Dream",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-27%2B1D.zip"
         }
     ]
 }
