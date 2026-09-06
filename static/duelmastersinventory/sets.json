@@ -528,6 +528,12 @@
             "set_code": "DMC-28",
             "set_name": "Grand Devil Finisher",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-28.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-29",
+            "set_name": "Arc Seraphim Reverser",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-29.zip"
         }
     ]
 }
