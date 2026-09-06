@@ -252,6 +252,12 @@
             "set_code": "DM-26",
             "set_name": "Dragonic Wars",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-26.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-27",
+            "set_name": "Perfect Heaven",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-27.zip"
         }
     ]
 }
