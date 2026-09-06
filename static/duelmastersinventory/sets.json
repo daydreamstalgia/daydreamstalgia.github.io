@@ -690,6 +690,12 @@
             "set_code": "DMC-55",
             "set_name": "CoroCoro Legend 7",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-55.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-56",
+            "set_name": "The Samurai Legend",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-56.zip"
         }
     ]
 }
