@@ -852,6 +852,12 @@
             "set_code": "DMD-14",
             "set_name": "Super Deck OMG: Revenging Izumo and Holy Evil God's Secret Treasure",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-14.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-15",
+            "set_name": "Beginning Dragon Deck: Battle Passion Dragon",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-15.zip"
         }
     ]
 }
