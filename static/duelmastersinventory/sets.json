@@ -216,6 +216,12 @@
             "set_code": "DM-21",
             "set_name": "History of Devil Nova",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-21.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-22",
+            "set_name": "The Dragonic Nova",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-22.zip"
         }
     ]
 }
