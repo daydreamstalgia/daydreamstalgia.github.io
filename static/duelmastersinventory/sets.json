@@ -888,6 +888,12 @@
             "set_code": "DMD-20",
             "set_name": "Super Victory Deck: Victorious Rising Dragon Sword Gaiohburn",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-20.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-21",
+            "set_name": "Due-ma Start Deck: Invincible Fire Civilization",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-21.zip"
         }
     ]
 }
