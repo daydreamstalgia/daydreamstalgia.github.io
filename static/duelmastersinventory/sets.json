@@ -666,6 +666,12 @@
             "set_code": "DMC-51",
             "set_name": "Entry Pack Zero: Force of Dragon",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-51.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-52",
+            "set_name": "Entry Pack Zero: Perfect Angel",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-52.zip"
         }
     ]
 }
