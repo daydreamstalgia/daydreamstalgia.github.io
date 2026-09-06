@@ -468,6 +468,12 @@
             "set_code": "DMC-18",
             "set_name": "Shobu's Holy Dragon Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-18.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-19",
+            "set_name": "Zakira's Dragon Commander Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-19.zip"
         }
     ]
 }
