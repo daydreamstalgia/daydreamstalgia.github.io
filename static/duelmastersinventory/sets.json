@@ -744,6 +744,12 @@
             "set_code": "DMC-64",
             "set_name": "CoroCoro Legend 7: Dynamite Movie",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-64.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-65",
+            "set_name": "The Movie Deck: Ultra Fire Spirits",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-65.zip"
         }
     ]
 }
