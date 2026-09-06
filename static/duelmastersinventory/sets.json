@@ -840,6 +840,12 @@
             "set_code": "DMD-12",
             "set_name": "Forbidden Transform Deck: The Book of Oracle",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-12.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-13",
+            "set_name": "Super Deck MAX: Katsuking and Legendary Secret Treasure",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-13.zip"
         }
     ]
 }
