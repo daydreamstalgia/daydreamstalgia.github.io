@@ -546,6 +546,12 @@
             "set_code": "DMC-31",
             "set_name": "Great Mecha-O Eraser",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-31.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-32",
+            "set_name": "Mars Flash",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-32.zip"
         }
     ]
 }
