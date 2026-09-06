@@ -588,6 +588,12 @@
             "set_code": "DMC-38",
             "set_name": "Castle of Demon",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-38.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-39",
+            "set_name": "Victory Soul",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-39.zip"
         }
     ]
 }
