@@ -456,6 +456,12 @@
             "set_code": "DMC-16",
             "set_name": "Guardian Blue Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-16.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-17",
+            "set_name": "Dark Warriors Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-17.zip"
         }
     ]
 }
