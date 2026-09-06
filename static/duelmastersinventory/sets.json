@@ -798,6 +798,12 @@
             "set_code": "DMD-05",
             "set_name": "Rising Dash Deck: Infinite Attack!",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-05.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-06",
+            "set_name": "Rising Dash Deck: Counterattack Block!",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-06.zip"
         }
     ]
 }
