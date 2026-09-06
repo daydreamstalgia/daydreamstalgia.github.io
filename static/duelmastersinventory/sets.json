@@ -726,6 +726,12 @@
             "set_code": "DMC-61",
             "set_name": "CoroCoro Dream Pack 4: Eternal Heaven",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-61.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-62",
+            "set_name": "Ultra NEX",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-62.zip"
         }
     ]
 }
