@@ -318,6 +318,12 @@
             "set_code": "DM-34",
             "set_name": "Cross Generation",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-34.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-34+1S",
+            "set_name": "Cross Generation Plus One Super",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-34%2B1S.zip"
         }
     ]
 }
