@@ -288,6 +288,12 @@
             "set_code": "DM-30",
             "set_name": "Ultra Duel",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-30.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-31",
+            "set_name": "Greatest Champion",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-31.zip"
         }
     ]
 }
