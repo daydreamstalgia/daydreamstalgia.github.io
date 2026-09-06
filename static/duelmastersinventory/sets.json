@@ -918,6 +918,12 @@
             "set_code": "DMD-25",
             "set_name": "Masters Chronicle Deck: Romanov Rises from Purgatory",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-25.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-26",
+            "set_name": "Masters Chronicle Deck: Survivor Evo-Theory α to Ω",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-26.zip"
         }
     ]
 }
