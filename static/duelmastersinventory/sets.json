@@ -768,6 +768,12 @@
             "set_code": "DMC-68",
             "set_name": "Dramatic Wars: Angel and Demon",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-68.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-01",
+            "set_name": "Start Dash Deck: Fire & Nature",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-01.zip"
         }
     ]
 }
