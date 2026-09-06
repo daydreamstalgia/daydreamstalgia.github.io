@@ -324,6 +324,12 @@
             "set_code": "DM-34+1S",
             "set_name": "Cross Generation Plus One Super",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-34%2B1S.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-35",
+            "set_name": "Neverending Saga",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-35.zip"
         }
     ]
 }
