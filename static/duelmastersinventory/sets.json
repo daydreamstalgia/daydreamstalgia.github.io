@@ -462,6 +462,12 @@
             "set_code": "DMC-17",
             "set_name": "Dark Warriors Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-17.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-18",
+            "set_name": "Shobu's Holy Dragon Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-18.zip"
         }
     ]
 }
