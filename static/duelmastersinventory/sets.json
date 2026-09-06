@@ -672,6 +672,12 @@
             "set_code": "DMC-52",
             "set_name": "Entry Pack Zero: Perfect Angel",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-52.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-53",
+            "set_name": "Legend Chronicle Shobu",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-53.zip"
         }
     ]
 }
