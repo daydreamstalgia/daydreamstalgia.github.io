@@ -738,6 +738,12 @@
             "set_code": "DMC-63",
             "set_name": "Lunatic God",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-63.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-64",
+            "set_name": "CoroCoro Legend 7: Dynamite Movie",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-64.zip"
         }
     ]
 }
