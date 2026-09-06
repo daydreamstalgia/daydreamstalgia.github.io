@@ -384,6 +384,12 @@
             "set_code": "DMC-04",
             "set_name": "Kokujo's Darkness Power-Up Pack",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-04.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-05",
+            "set_name": "Lightning Thunder Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-05.zip"
         }
     ]
 }
