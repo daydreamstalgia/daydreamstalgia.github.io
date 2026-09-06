@@ -504,6 +504,12 @@
             "set_code": "DMC-24",
             "set_name": "Illusion Blue Half Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-24.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-25",
+            "set_name": "Shobu's Fullmetal Fire Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-25.zip"
         }
     ]
 }
