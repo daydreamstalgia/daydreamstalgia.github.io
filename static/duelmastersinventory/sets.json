@@ -894,6 +894,12 @@
             "set_code": "DMD-21",
             "set_name": "Due-ma Start Deck: Invincible Fire Civilization",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-21.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-22",
+            "set_name": "Due-ma Start Deck: Destroyer Darkness Civilization",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-22.zip"
         }
     ]
 }
