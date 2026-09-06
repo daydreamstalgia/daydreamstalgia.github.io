@@ -300,6 +300,12 @@
             "set_code": "DM-32",
             "set_name": "Evolution Saga",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-32.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-32+1D",
+            "set_name": "Evolution Saga Plus One Dream",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-32%2B1D.zip"
         }
     ]
 }
