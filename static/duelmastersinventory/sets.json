@@ -330,6 +330,12 @@
             "set_code": "DM-35",
             "set_name": "Neverending Saga",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-35.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-36",
+            "set_name": "Psychic Shock",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-36.zip"
         }
     ]
 }
