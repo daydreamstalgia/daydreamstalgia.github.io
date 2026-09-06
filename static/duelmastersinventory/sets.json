@@ -678,6 +678,12 @@
             "set_code": "DMC-53",
             "set_name": "Legend Chronicle Shobu",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-53.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-54",
+            "set_name": "Legend Chronicle Rival",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-54.zip"
         }
     ]
 }
