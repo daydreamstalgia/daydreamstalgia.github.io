@@ -558,6 +558,12 @@
             "set_code": "DMC-33",
             "set_name": "Edge of Dragon",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-33.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-34",
+            "set_name": "CoroCoro Dream Pack 2: Eternal Legacy",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-34.zip"
         }
     ]
 }
