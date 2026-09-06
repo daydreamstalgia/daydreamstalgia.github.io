@@ -816,6 +816,12 @@
             "set_code": "DMD-08",
             "set_name": "Transform Deck Set DX Oni Angel",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-08.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-09",
+            "set_name": "1st Deck Outrage Dash",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-09.zip"
         }
     ]
 }
