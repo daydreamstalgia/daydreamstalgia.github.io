@@ -774,6 +774,12 @@
             "set_code": "DMD-01",
             "set_name": "Start Dash Deck: Fire & Nature",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-01.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-02",
+            "set_name": "Start Dash Deck: Water & Darkness",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-02.zip"
         }
     ]
 }
