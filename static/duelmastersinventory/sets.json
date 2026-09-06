@@ -240,6 +240,12 @@
             "set_code": "DM-24",
             "set_name": "Violence Heaven",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-24.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-25",
+            "set_name": "Violence Creator",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-25.zip"
         }
     ]
 }
