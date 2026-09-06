@@ -750,6 +750,12 @@
             "set_code": "DMC-65",
             "set_name": "The Movie Deck: Ultra Fire Spirits",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-65.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-66",
+            "set_name": "Duel Masters: Super Best",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-66.zip"
         }
     ]
 }
