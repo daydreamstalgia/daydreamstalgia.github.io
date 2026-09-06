@@ -228,6 +228,12 @@
             "set_code": "DM-22+1D",
             "set_name": "The Dragonic Nova Plus One Dream",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-22%2B1D.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-23",
+            "set_name": "The End of the Universe",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-23.zip"
         }
     ]
 }
