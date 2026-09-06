@@ -906,6 +906,12 @@
             "set_code": "DMD-23",
             "set_name": "Due-ma Start Deck: Miracle Bringer Light Civilization",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-23.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-24",
+            "set_name": "Masters Chronicle Deck: Bolmeteus Returns",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-24.zip"
         }
     ]
 }
