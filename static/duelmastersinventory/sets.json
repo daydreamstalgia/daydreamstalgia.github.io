@@ -510,6 +510,12 @@
             "set_code": "DMC-25",
             "set_name": "Shobu's Fullmetal Fire Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-25.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-26",
+            "set_name": "Hakuoh's Angel Kingdom Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-26.zip"
         }
     ]
 }
