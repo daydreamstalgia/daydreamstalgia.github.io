@@ -534,6 +534,12 @@
             "set_code": "DMC-29",
             "set_name": "Arc Seraphim Reverser",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-29.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-30",
+            "set_name": "Tyranno Drake Crusher",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-30.zip"
         }
     ]
 }
