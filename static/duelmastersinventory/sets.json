@@ -618,6 +618,12 @@
             "set_code": "DMC-43",
             "set_name": "Never Ending Hero",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-43.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-44",
+            "set_name": "Endless All Delete",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-44.zip"
         }
     ]
 }
