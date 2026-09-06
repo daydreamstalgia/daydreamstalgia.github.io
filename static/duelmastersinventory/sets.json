@@ -708,6 +708,12 @@
             "set_code": "DMC-58",
             "set_name": "Mad Rock Chester",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-58.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-59",
+            "set_name": "Samurai Ambitious",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-59.zip"
         }
     ]
 }
