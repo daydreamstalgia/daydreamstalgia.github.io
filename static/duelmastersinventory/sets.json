@@ -438,6 +438,12 @@
             "set_code": "DMC-13",
             "set_name": "CoroCoro New Generation Pack",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-13.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-14",
+            "set_name": "Crimson Armorloids Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-14.zip"
         }
     ]
 }
