@@ -696,6 +696,12 @@
             "set_code": "DMC-56",
             "set_name": "The Samurai Legend",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-56.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-57",
+            "set_name": "The God Kingdom",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-57.zip"
         }
     ]
 }
