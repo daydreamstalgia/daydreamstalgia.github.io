@@ -516,6 +516,12 @@
             "set_code": "DMC-26",
             "set_name": "Hakuoh's Angel Kingdom Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-26.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-27",
+            "set_name": "CoroCoro Dream Pack",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-27.zip"
         }
     ]
 }
