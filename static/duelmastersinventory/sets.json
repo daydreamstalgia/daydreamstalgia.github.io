@@ -270,6 +270,12 @@
             "set_code": "DM-28",
             "set_name": "Battle Galaxy",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-28.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-29",
+            "set_name": "Rock-on Heroes",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-29.zip"
         }
     ]
 }
