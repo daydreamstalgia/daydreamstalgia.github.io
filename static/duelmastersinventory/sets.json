@@ -636,6 +636,12 @@
             "set_code": "DMC-46",
             "set_name": "Arcadias Knights",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-46.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-47",
+            "set_name": "Heroes Cross Pack - Shobu",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-47.zip"
         }
     ]
 }
