@@ -624,6 +624,12 @@
             "set_code": "DMC-44",
             "set_name": "Endless All Delete",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-44.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-45",
+            "set_name": "Battle of Yamato Soul",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-45.zip"
         }
     ]
 }
