@@ -432,6 +432,12 @@
             "set_code": "DMC-12",
             "set_name": "Hakuoh's Holy Spirit Power-Up Pack",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-12.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-13",
+            "set_name": "CoroCoro New Generation Pack",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-13.zip"
         }
     ]
 }
