@@ -900,6 +900,12 @@
             "set_code": "DMD-22",
             "set_name": "Due-ma Start Deck: Destroyer Darkness Civilization",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-22.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-23",
+            "set_name": "Due-ma Start Deck: Miracle Bringer Light Civilization",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-23.zip"
         }
     ]
 }
