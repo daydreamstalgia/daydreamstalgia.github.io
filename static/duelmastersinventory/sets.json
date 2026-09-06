@@ -312,6 +312,12 @@
             "set_code": "DM-33",
             "set_name": "Rising Dragon",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-33.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-34",
+            "set_name": "Cross Generation",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-34.zip"
         }
     ]
 }
