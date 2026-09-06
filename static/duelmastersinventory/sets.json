@@ -642,6 +642,12 @@
             "set_code": "DMC-47",
             "set_name": "Heroes Cross Pack - Shobu",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-47.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-48",
+            "set_name": "Heroes Cross Pack - Zakira",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-48.zip"
         }
     ]
 }
