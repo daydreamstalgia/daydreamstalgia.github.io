@@ -714,6 +714,12 @@
             "set_code": "DMC-59",
             "set_name": "Samurai Ambitious",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-59.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-60",
+            "set_name": "Eternal Death",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-60.zip"
         }
     ]
 }
