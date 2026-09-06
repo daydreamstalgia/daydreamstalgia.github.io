@@ -480,6 +480,12 @@
             "set_code": "DMC-20",
             "set_name": "Shobu's Holy Dragon Power-Up Pack",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-20.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-21",
+            "set_name": "Zakira's Dragon Commander Power-Up Pack",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-21.zip"
         }
     ]
 }
