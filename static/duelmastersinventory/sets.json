@@ -444,6 +444,12 @@
             "set_code": "DMC-14",
             "set_name": "Crimson Armorloids Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-14.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-15",
+            "set_name": "Eternal Dragons Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-15.zip"
         }
     ]
 }
