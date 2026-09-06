@@ -630,6 +630,12 @@
             "set_code": "DMC-45",
             "set_name": "Battle of Yamato Soul",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-45.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-46",
+            "set_name": "Arcadias Knights",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-46.zip"
         }
     ]
 }
