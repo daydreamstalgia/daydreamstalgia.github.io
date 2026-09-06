@@ -756,6 +756,12 @@
             "set_code": "DMC-66",
             "set_name": "Duel Masters: Super Best",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-66.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-67",
+            "set_name": "Dramatic Wars: Fire and Dragon",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-67.zip"
         }
     ]
 }
