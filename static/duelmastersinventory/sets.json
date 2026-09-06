@@ -606,6 +606,12 @@
             "set_code": "DMC-41",
             "set_name": "Wild Kingdom",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-41.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-42",
+            "set_name": "CoroCoro Dream Pack 3: Eternal Gear",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-42.zip"
         }
     ]
 }
