@@ -570,6 +570,12 @@
             "set_code": "DMC-35",
             "set_name": "Beginner Beat Slash Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-35.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-36",
+            "set_name": "Heaven of Dragon",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-36.zip"
         }
     ]
 }
