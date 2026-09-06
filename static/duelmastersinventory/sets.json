@@ -426,6 +426,12 @@
             "set_code": "DMC-11",
             "set_name": "Shobu's Dragon Legend Power-Up Pack",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-11.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-12",
+            "set_name": "Hakuoh's Holy Spirit Power-Up Pack",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-12.zip"
         }
     ]
 }
