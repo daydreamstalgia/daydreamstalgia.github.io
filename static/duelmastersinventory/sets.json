@@ -702,6 +702,12 @@
             "set_code": "DMC-57",
             "set_name": "The God Kingdom",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-57.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-58",
+            "set_name": "Mad Rock Chester",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-58.zip"
         }
     ]
 }
