@@ -492,6 +492,12 @@
             "set_code": "DMC-22",
             "set_name": "Hell Boost Half Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-22.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-23",
+            "set_name": "Speed Burn Half Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-23.zip"
         }
     ]
 }
