@@ -540,6 +540,12 @@
             "set_code": "DMC-30",
             "set_name": "Tyranno Drake Crusher",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-30.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-31",
+            "set_name": "Great Mecha-O Eraser",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-31.zip"
         }
     ]
 }
