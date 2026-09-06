@@ -828,6 +828,12 @@
             "set_code": "DMD-10",
             "set_name": "1st Deck Oracle Dash",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-10.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-11",
+            "set_name": "Forbidden Transform Deck: The Book of Outrage",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-11.zip"
         }
     ]
 }
