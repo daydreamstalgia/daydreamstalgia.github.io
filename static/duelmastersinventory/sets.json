@@ -582,6 +582,12 @@
             "set_code": "DMC-37",
             "set_name": "Violence Angel",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-37.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-38",
+            "set_name": "Castle of Demon",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-38.zip"
         }
     ]
 }
