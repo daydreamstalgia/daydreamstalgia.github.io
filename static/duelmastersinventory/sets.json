@@ -576,6 +576,12 @@
             "set_code": "DMC-36",
             "set_name": "Heaven of Dragon",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-36.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-37",
+            "set_name": "Violence Angel",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-37.zip"
         }
     ]
 }
