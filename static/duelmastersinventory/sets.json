@@ -336,6 +336,12 @@
             "set_code": "DM-36",
             "set_name": "Psychic Shock",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-36.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-36+1D",
+            "set_name": "Psychic Shock Plus One Dream",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-36%2B1D.zip"
         }
     ]
 }
