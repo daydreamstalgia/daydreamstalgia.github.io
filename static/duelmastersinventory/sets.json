@@ -222,6 +222,12 @@
             "set_code": "DM-22",
             "set_name": "The Dragonic Nova",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-22.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-22+1D",
+            "set_name": "The Dragonic Nova Plus One Dream",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-22%2B1D.zip"
         }
     ]
 }
