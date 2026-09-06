@@ -810,6 +810,12 @@
             "set_code": "DMD-07",
             "set_name": "Transform Deck Set DX Oni Dragon",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-07.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-08",
+            "set_name": "Transform Deck Set DX Oni Angel",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-08.zip"
         }
     ]
 }
