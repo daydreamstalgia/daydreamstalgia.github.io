@@ -486,6 +486,12 @@
             "set_code": "DMC-21",
             "set_name": "Zakira's Dragon Commander Power-Up Pack",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-21.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-22",
+            "set_name": "Hell Boost Half Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-22.zip"
         }
     ]
 }
