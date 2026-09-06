@@ -204,6 +204,12 @@
             "set_code": "DM-20",
             "set_name": "The Ultimate Nova",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-20.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "HOLIDAY",
+            "set_name": "Holiday Card",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_HOLIDAY.zip"
         }
     ]
 }
