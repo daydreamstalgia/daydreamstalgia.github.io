@@ -348,6 +348,12 @@
             "set_code": "DM-37",
             "set_name": "Dark Emperor",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-37.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM-38",
+            "set_name": "Angelic Wars",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-38.zip"
         }
     ]
 }
