@@ -552,6 +552,12 @@
             "set_code": "DMC-32",
             "set_name": "Mars Flash",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-32.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-33",
+            "set_name": "Edge of Dragon",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-33.zip"
         }
     ]
 }
