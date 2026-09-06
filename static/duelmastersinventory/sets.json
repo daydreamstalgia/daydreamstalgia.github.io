@@ -414,6 +414,12 @@
             "set_code": "DMC-09",
             "set_name": "Shobu's Dragon Legend Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-09.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-10",
+            "set_name": "Hakuoh's Holy Spirit Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-10.zip"
         }
     ]
 }
