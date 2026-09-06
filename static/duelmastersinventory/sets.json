@@ -396,6 +396,12 @@
             "set_code": "DMC-06",
             "set_name": "Dragon Strikes Deck",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-06.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMC-07",
+            "set_name": "Eternal Insects Deck",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMC-07.zip"
         }
     ]
 }
