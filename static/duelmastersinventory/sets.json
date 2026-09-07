@@ -972,6 +972,12 @@
             "set_code": "DMD-34",
             "set_name": "Deluxe DueGacha Deck: Hero of the Silver Blade Dogiragon",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-34.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-35",
+            "set_name": "Deluxe DueGacha Deck: Forbidden Star Dokindam",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-35.zip"
         }
     ]
 }
