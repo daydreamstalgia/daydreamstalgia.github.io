@@ -948,6 +948,12 @@
             "set_code": "DMD-30",
             "set_name": "Revolution Start Deck: Lucifer's Time Stop",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-30.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-31",
+            "set_name": "Field Start Deck: Basara's Forbidden",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-31.zip"
         }
     ]
 }
