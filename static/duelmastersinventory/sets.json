@@ -924,6 +924,12 @@
             "set_code": "DMD-26",
             "set_name": "Masters Chronicle Deck: Survivor Evo-Theory α to Ω",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-26.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-27",
+            "set_name": "Custom Transformation Deck Revolution vs. Invasion: Explosive Passion Fire Civilization",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-27.zip"
         }
     ]
 }
