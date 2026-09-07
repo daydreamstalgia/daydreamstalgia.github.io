@@ -966,6 +966,12 @@
             "set_code": "DMD-33",
             "set_name": "Masters Chronicle Deck 2016: The World's End by the God of Devils",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-33.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-34",
+            "set_name": "Deluxe DueGacha Deck: Hero of the Silver Blade Dogiragon",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-34.zip"
         }
     ]
 }
