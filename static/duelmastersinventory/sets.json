@@ -942,6 +942,12 @@
             "set_code": "DMD-29",
             "set_name": "Revolution Start Deck: Katta's Whirlwindy Attack",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-29.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-30",
+            "set_name": "Revolution Start Deck: Lucifer's Time Stop",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-30.zip"
         }
     ]
 }
