@@ -936,6 +936,12 @@
             "set_code": "DMD-28",
             "set_name": "Custom Transformation Deck Revolution vs. Invasion: Dragonic Polaris Light Civilization",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-28.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-29",
+            "set_name": "Revolution Start Deck: Katta's Whirlwindy Attack",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-29.zip"
         }
     ]
 }
