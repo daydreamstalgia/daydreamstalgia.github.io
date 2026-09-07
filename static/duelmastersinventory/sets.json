@@ -954,6 +954,12 @@
             "set_code": "DMD-31",
             "set_name": "Field Start Deck: Basara's Forbidden",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-31.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMD-32",
+            "set_name": "Masters Chronicle Deck 2016: The Genesis by the Lord of Spirits",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMD-32.zip"
         }
     ]
 }
