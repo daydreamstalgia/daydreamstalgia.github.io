@@ -159,6 +159,24 @@
         },
         {
             "set_language": "JP",
+            "set_code": "DM-12",
+            "set_name": "Eternal Vortex",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-12.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DM22-RP2X",
+            "set_name": "Dragon Emperor of Booming Flame: Adrenaline Pack",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM22-RP2X.zip"
+        },
+        {
+            "set_language": "JP",
+            "set_code": "DMX-21",
+            "set_name": "Masters Chronicle Pack: Comic of Heroes",
+            "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DMX-21.zip"
+        },
+        {
+            "set_language": "JP",
             "set_code": "DM-13",
             "set_name": "Eternal Phoenix",
             "url": "https://daydreamstalgia.github.io/static/dmi_sets/JP_DM-13.zip"
